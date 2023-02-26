@@ -1,0 +1,37 @@
+1 : temp1 =  l4 > 2
+2 : temp2 =  y < 3
+3 : temp1 =  Temp1 and Temp2
+4 : temp2 =  l4 < 2
+5 : temp1 =  Temp1 and Temp2
+6 : temp2 =  2 < 4
+7 : temp1 =  Temp1 or Temp2
+8 : if not temp1 goto label0
+9 :  goto 7
+10 :  label 0
+11 :  repeat label0
+12 :  temp1 :=  3 > 2
+13 :  if not temp1 goto label0
+14 : Temp1 := 2 + 3
+15 : Temp2 := Temp1 + jk
+16 : Temp1 := Temp2 + 2
+17  :   temp2 := Temp1 + 2
+18 : jk := temp2
+19 : rr1 := 3.4 + 2 
+20 : fg := 2 + 1 
+21 : l10 := l9 
+22 : Temp1 := 2 + 3
+23  :   temp2 := Temp1 + 3
+24 : x := temp2
+25 : temp1 := l2 <= fg
+26 : temp2 := rr2 < 2
+27 : temp1 :=  Temp1 and Temp2
+28 : temp2 := 3 < 2
+29 : temp1 :=  Temp1 and Temp2
+30 :  if not temp1 goto label1
+31 : x := 10 
+32 :  label 1
+33 : else 
+34 : ll1 := 2 
+35 : fg := 2 + 2 
+36  :   param  l7
+37  :   call all  1

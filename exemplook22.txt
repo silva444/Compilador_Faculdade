@@ -1,0 +1,68 @@
+program teste; 
+ 
+	integer  i1, i2, i3, i4, count;
+	string s1, s2, s3;
+	integer i5, i7;
+	real r1, r2, r3, r4, x,l,tenorio,tenori2,tenorio3,tenorio4,tenorio6,tenorio7,tenorio8,tenorio9;
+	string nome, cor, endereco;
+      
+{
+{{
+
+	tem que ignorar isso
+bla bla blá
+x := 10;
+
+{
+{}
+                   
+begin 
+	begin 
+		count := 0;
+		if (5 > 10.5		) then
+		x := 10;
+
+i4 := 10;
+		i4 := 20;
+	i2 := 30;
+		r1 := 1.5;
+		i5 := i4;
+		r2 := r1;
+		r3 := i1 + r1;
+		r4 := (i1 / 10) * (r1 + i2);
+		r4 := (r4 + 1) + (i1 / 15.2);
+
+		if (5 > r2) then 
+			all (s1, s2);
+		else 
+		begin 
+			while (r2 < 100) do 
+				r2 := r2 + 1;
+ 			repeat 
+			begin 
+				r2 := r2 + 2;
+				r3 := r3 + 3;
+				i1 := i1 + count;
+
+			end;
+			until ( (r1 = 20) or (r3 < 30));
+		end;
+		all (nome, s1, cor);
+		if ((r1 <> 20) or (i1 <= 30) or (r3 > 30.5) or (i1 >= 0)) then 
+		begin 
+			r2 := r3 + 1;
+			i1 := i2 + 2;
+		end;
+		all (s1, s2);
+		if (r4 > r3) then
+		begin
+			r1 := 0;
+			i7 := i5 + 2 - i1;
+			r2 := r1 + i4 / 3;
+			count := count + 1;
+
+
+                end;
+	end;
+end.
+                     

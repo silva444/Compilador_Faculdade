@@ -1,0 +1,39 @@
+program teste;         
+     
+      real l2,rr1,fg; 
+      integer jk,y,x;   
+      string l5,l3 ,l7,l9, l10 ;  
+      integer l4,ll1,rr2,y333;  {@}
+      begin
+	begin
+
+     while ((l4>2)and(y<3)and(l4< 2 )or(2<4 ))do{ asdas }     
+    begin
+    end; 
+
+      repeat
+       begin
+       end;
+      until (2+3> 2); 
+       jk:=  ( 2 + 3 + jk + 2 ) + (2);  { asdasdasd }  {asdasdjasopdjasopd}
+    
+    rr1:= 3.4 + 2;
+fg:=2+1;
+  l10:= l9 ;
+x:= ( 2 + 3 ) + (3);        
+
+if ((l2<=fg)and(rr2 < 2) and ( 3 < 2) )then  
+begin 
+x:=10; 
+end;     
+else 
+begin
+ ll1:= 2;
+fg := 2 + 2 ;
+all (l7) ; 
+end;
+
+
+              end;   
+              end. 
+

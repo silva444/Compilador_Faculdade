@@ -1,0 +1,20 @@
+program vini;
+
+integer x,y,z,vinibahia,%joegordo;{4533423}
+string s1,s2,s3;
+
+
+begin
+	begin
+	
+	repeat
+	begin
+	all(s1,s2);
+        vinibahia := 10;
+	end;
+	until(x<>y);
+
+			
+		
+	end;
+end.
